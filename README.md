@@ -6,14 +6,14 @@
 
 ###
 
-**SWE @ El Zatuna · SW Tech Lead @ Tawsela · IBM SkillsBuild Student Ambassador**
+**SWE @ El Zatuna · Software Tech Lead @ Tawsela · IBM SkillsBuild Student Ambassador**
 
 Full-Stack Developer focused on building scalable, clean, and user-friendly systems. Currently a Computer Science student at Misr International University (GPA 3.8 — Rank #4), shipping production platforms across web, mobile, and ride-hailing.
 
-- 🚖 Tech-leading **Tawsela** (Ride-Hailing Platform) — rider/driver apps + admin dashboard
-- 🎓 Building **El Zatuna** courses platform — serving **800+ students** in production
+- 🚖 Tech-lead **Tawsela** (Ride-Hailing Platform) — rider/driver apps + admin dashboard
+- 🎓 SWE **El Zatuna** courses platform — serving **800+ students** in production
 - 🤝 Head of Technology @ **Microsoft Student Partners (MSP)** — 10+ sessions, hackathon lead & judge
-- 🧑‍🏫 Teaching Assistant @ MIU — supporting **500+ students** in labs
+- 🧑‍🏫 Teaching Co-Assistant @ MIU — supporting **500+ students** in labs
 - 📺 Content creator on YouTube (`codingtutorialMIU`) — **100,000+ views** & **4,500+ watch hours** across 50+ videos on Coding, Math & Physics
 - 🌐 Portfolio: **[moeportfoliov2.vercel.app](https://moeportfoliov2.vercel.app/)** (20+ projects)
 
